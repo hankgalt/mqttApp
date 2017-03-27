@@ -1,12 +1,12 @@
 {
   "name": "mqtt-server",
   "version": "1.0.0",
-  "description": "mqtt server/broker",
+  "description": "MQTT server/broker",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "hankgalt",
   "license": "ISC",
   "dependencies": {
     "mosca": "^2.3.0"
